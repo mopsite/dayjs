@@ -12,8 +12,8 @@ hero:
       text: 开始使用
       link: /start/
     - theme: alt
-      text: 在 Gitee 上查看
-      link: https://gitee.com/skewb/dayjs
+      text: 在 GitHub 上查看
+      link: https://github.com/mopsite/dayjs
 
 features:
   - icon: 🪶
